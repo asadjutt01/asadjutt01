@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Asad Nadeem 👋
 
-<!--
-**asadjutt01/asadjutt01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate MERN stack developer with a focus on building impactful web applications. Below you'll find more about my work, skills, and projects.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a dedicated developer with experience in both front-end and back-end development. I enjoy creating seamless and efficient web applications that provide excellent user experiences.
+
+## 🛠️ Skills & Technologies
+
+- **Languages:** JavaScript, HTML5, CSS3
+- **Front-End:** React.js, Tailwind CSS
+- **Back-End:** Node.js, Express.js
+- **Databases:** MongoDB
+- **Tools:** Git, Jwt, Postnan
+
+## 🌟 Featured Project: [E Commerce]
+
+**Project Duration:** [june 2024] - [june 2024]
+
+**Overview:**
+I have developed a full-featured e-commerce platform with a responsive interface for
+browsing products and managing orders
+
+
+
+**Technologies Used:**
+- **Languages:** JavaScript, HTML5, CSS3
+- **Front-End:** React.js, Tailwind CSS
+- **Back-End:** Node.js, Express.js
+- **Databases:** MongoDB
+- **Tools:** Git, Jwt, Postnan
+
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/asad-nadeem-gondal-01a75821b)
+- [Instagram](https://www.instagram.com/asad._.jutt__)
+- [Email](asadnadeem931@gmail.com)
+
+---
+
+Feel free to reach out if you'd like to collaborate on a project or just want to connect!
