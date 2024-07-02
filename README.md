@@ -12,7 +12,7 @@ I'm a dedicated developer with experience in both front-end and back-end develop
 - **Front-End:** React.js, Tailwind CSS
 - **Back-End:** Node.js, Express.js
 - **Databases:** MongoDB
-- **Tools:** Git, Jwt, Postnan
+- **Tools:** Git, Jwt, Postman
 
 ## 🌟 Featured Project: [E Commerce]
 
