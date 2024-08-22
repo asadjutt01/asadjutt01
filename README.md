@@ -29,7 +29,7 @@ browsing products and managing orders
 - **Front-End:** React.js, Tailwind CSS
 - **Back-End:** Node.js, Express.js
 - **Databases:** MongoDB
-- **Tools:** Git, Jwt, Postnan
+- **Tools:** Git, Jwt, Postman
 
 
 ## 📫 Connect with Me
