@@ -1,43 +1,43 @@
-# Hi, I'm Asad Nadeem (Gondal) 👋
+👋 Hi, I'm Asad Nadeem!
+I'm an Passionate Frontend Developer based in Faisalabad, Pakistan, with a passion for crafting responsive, user-centric web applications. I specialize in React.js, Next.js, and modern UI libraries like Tailwind CSS and Material UI. I love collaborating with teams, solving problems, and building scalable, accessible interfaces.
+🌱 Currently, I'm pursuing a Bachelor of Science in Computer Science and working as a Frontend Developer at Tech9et, where I build reusable components, integrate APIs, and optimize for performance and SEO.
 
-Welcome to my GitHub profile! I'm a passionate MERN stack developer with a focus on building impactful web applications. Below you'll find more about my work, skills, and projects.
+🛠️ Skills
+Programming Languages & FundamentalsJavaScript (ES6+), TypeScript, HTML, CSS
+Frameworks & LibrariesReact.js, Next.js
+State ManagementRedux, Zustand, Context API
+Styling & UI LibrariesTailwind CSS, Sass (SCSS), Bootstrap, Material UI, Chakra UI, shadcn/ui, Ant Design
+Tools & OthersGit, GitHub, Vite, Create React App, REST API Integration, Postman, Chrome DevTools, VS Code
+Soft SkillsProblem-solving, Team Collaboration, Adaptability, Eagerness to Learn
 
-## About Me
+🚀 Projects
+MyDoctorShop Tech Stack: Next.js, React.js, SCSS  
 
-I'm a dedicated developer with experience in both front-end and back-end development. I enjoy creating seamless and efficient web applications that provide excellent user experiences.
+E-commerce platform for medical products with product search, cart, and secure authentication.  
+Leveraged Next.js SSR and dynamic routing for performance and SEO.
 
-## 🛠️ Skills & Technologies
+NRG-SUPPS Tech Stack: Next.js, React.js, Tailwind CSS  
 
-- **Languages:** JavaScript, HTML5, CSS3
-- **Front-End:** React.js, Tailwind CSS
-- **Back-End:** Node.js, Express.js
-- **Databases:** MongoDB
-- **Tools:** Git, Jwt, Postman
+Built a responsive e-commerce frontend with dynamic product data and real-time inventory updates.  
+Optimized UI with Tailwind CSS for a mobile-first experience.
 
-## 🌟 Featured Project: [E Commerce]
+ERP System (Multi-Site Inventory & POS) Tech Stack: React.js, Tailwind CSS, REST APIs  
 
-**Project Duration:** [june 2024] - [june 2024]
+Developed POS, inventory, and user management modules with real-time API synchronization.  
+Implemented secure authentication and responsive interfaces.
 
-**Overview:**
-I have developed a full-featured e-commerce platform with a responsive interface for
-browsing products and managing orders
+Swimming Pool Construction Company Website Tech Stack: React.js, Tailwind CSS  
 
-
-
-**Technologies Used:**
-- **Languages:** JavaScript, HTML5, CSS3
-- **Front-End:** React.js, Tailwind CSS
-- **Back-End:** Node.js, Express.js
-- **Databases:** MongoDB
-- **Tools:** Git, Jwt, Postman
+Created an SEO-friendly, responsive website with modular UI components.  
+Optimized performance with lazy-loading and minimal render-blocking code.
 
 
-## 📫 Connect with Me
+📬 Get in Touch
 
-- [LinkedIn](https://www.linkedin.com/in/asad-nadeem-gondal-01a75821b)
-- [Instagram](https://www.instagram.com/asad._.jutt__)
-- [Email](asadnadeem931@gmail.com)
+📧 Email: asadnadeem931@gmail.com  
+🔗 LinkedIn: Asad Nadeem  
+🐙 GitHub: asadjutt01  
+📱 Phone: (+92) 3087020981
 
----
 
-Feel free to reach out if you'd like to collaborate on a project or just want to connect!
+✨ Let's build something amazing together!
