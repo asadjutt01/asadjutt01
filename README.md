@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Asad Nadeem!
 
-I'm a Passionate Frontend Developer based in Faisalabad, Pakistan, with a passion for crafting responsive, user-centric web applications. I specialize in React.js, Next.js, and modern UI libraries like Tailwind CSS and Material UI. I love collaborating with teams, solving problems, and building scalable, accessible interfaces.
+I'm a Passionate Frontend Developer with a passion for crafting responsive, user-centric web applications. I specialize in React.js, Next.js, and modern UI libraries like Tailwind CSS and Material UI. I love collaborating with teams, solving problems, and building scalable, accessible interfaces.
 
 🌱 Currently, I'm pursuing a Bachelor of Science in Computer Science and working as a Frontend Developer at Tech9et, where I build reusable components, integrate APIs, and optimize for performance and SEO.
 
