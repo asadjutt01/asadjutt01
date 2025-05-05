@@ -34,10 +34,10 @@ Optimized performance with lazy-loading and minimal render-blocking code.
 
 📬 Get in Touch
 
-📧 Email: asadnadeem931@gmail.com  
-🔗 LinkedIn: Asad Nadeem  
-🐙 GitHub: asadjutt01  
-📱 Phone: (+92) 3087020981
+📧 Email: [asadnadeem931@gmail.com](mailto:asadnadeem931@gmail.com)  
+🔗 LinkedIn: [Asad Nadeem](https://www.linkedin.com/in/asad-nadeem-01a75821b)  
+🐙 GitHub: [asadjutt01](https://github.com/asadjutt01)  
+📱 Phone: [+92 308 7020981](tel:+923087020981)
 
 
 ✨ Let's build something amazing together!
